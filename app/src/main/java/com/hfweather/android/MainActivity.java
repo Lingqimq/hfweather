@@ -4,7 +4,7 @@ import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.hfweather.R;
+//import com.example.hfweather.R;
 
 public class MainActivity extends AppCompatActivity {
 

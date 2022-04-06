@@ -1,8 +1,9 @@
 package com.hfweather.android.db;
 
-import org.litepal.crud.LitePalSupport;
 
-public class Province extends LitePalSupport {
+import org.litepal.crud.DataSupport;
+
+public class Province extends DataSupport {
 
     private int id;
 
