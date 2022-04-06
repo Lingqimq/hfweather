@@ -1,0 +1,13 @@
+<litepal>
+
+    <dbname value = "hf_weather" />
+
+    <version value = "1" />
+
+    <list>
+        <mapping class = "com.hfweather.android.db.Province" />
+        <mapping class= "com.hfweather.android.db.City" />
+        <mapping class= "com.hfweather.android.db.County" />
+
+    </list>
+</litepal>
